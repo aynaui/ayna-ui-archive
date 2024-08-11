@@ -1,3 +1,3 @@
-# @Ayna/ui
+# Ayna UI
 
 An UI library for React
