@@ -1,5 +1,5 @@
 {
-	"name": "@ayna/ui",
+	"name": "ayna-ui",
 	"version": "0.0.1",
 	"description": "A React UI library.",
 	"main": "src/index.ts",
